@@ -56,5 +56,3 @@ Love to improve this tool? Contributions are welcome!
 This project is open-source under the [MIT License](LICENSE).
 
 Made with ❤️ for the Bengali community worldwide. 🇧🇩🇮🇳
-
-শুভকামনা! যদি বাংলা ভার্সন চাও বা কোনো পরিবর্তন দরকার (যেমন: আরও ডিটেইলস যোগ করা), তাহলে বলো – আমি আপডেট করে দিব। 🚀
